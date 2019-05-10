@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AWS.iml" filepath="$PROJECT_DIR$/.idea/modules/AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudAccessFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudAccessFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AWS/CloudFramework.AWS.iml" filepath="$PROJECT_DIR$/.idea/modules/AWS/CloudFramework.AWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AWS/CloudFramework.AWS.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AWS/CloudFramework.AWS.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AWS/CloudFramework.AWS.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AWS/CloudFramework.AWS.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudAccessFramework/CloudFramework.CloudAccessFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudAccessFramework/CloudFramework.CloudAccessFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudAccessFramework/CloudFramework.CloudAccessFramework.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudAccessFramework/CloudFramework.CloudAccessFramework.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudAccessFramework/CloudFramework.CloudAccessFramework.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudAccessFramework/CloudFramework.CloudAccessFramework.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudFramework.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudFramework.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CloudFramework.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CloudFramework.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloud.iml" filepath="$PROJECT_DIR$/.idea/cloud.iml" />
+    </modules>
+  </component>
+</project>

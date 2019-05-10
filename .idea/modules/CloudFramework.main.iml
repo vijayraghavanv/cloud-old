@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="CloudFramework:main" external.linked.project.path="$MODULE_DIR$/../../CloudFramework" external.root.project.path="$MODULE_DIR$/../../CloudFramework" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="0.1" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../CloudFramework" rootProjectPath="$MODULE_DIR$/../../CloudFramework" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../CloudFramework/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../CloudFramework/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../CloudFramework/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../CloudFramework/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="CloudFramework.AWS.main" />
+    <orderEntry type="library" name="Gradle: com.google.flogger:flogger:0.4" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:ec2:2.5.39" level="project" />
+    <orderEntry type="module" module-name="CloudFramework.CloudAccessFramework.main" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:aws-query-protocol:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:protocol-core:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:aws-core:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:auth:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:regions:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:sdk-core:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:http-client-spi:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:profiles:2.5.39" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: software.amazon.awssdk:apache-client:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:utils:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.awssdk:annotations:2.5.39" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: software.amazon.awssdk:netty-nio-client:2.5.39" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: software.amazon.eventstream:eventstream:1.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.typesafe.netty:netty-reactive-streams-http:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.typesafe.netty:netty-reactive-streams:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpclient:4.5.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpcore:4.4.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-codec-http2:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-codec-http:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-handler:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-codec:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-transport:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-buffer:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-resolver:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-common:4.1.33.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+  </component>
+</module>
